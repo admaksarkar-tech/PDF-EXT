@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+pandas
+pytesseract
+pdf2image
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+openai
+tiktoken
